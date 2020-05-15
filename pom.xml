@@ -20,6 +20,8 @@
 
     <modules>
         <module>spring-boot-configation</module>
+        <module>spring-boot-start</module>
+        <module>spring-boot-jpa</module>
     </modules>
 
     <build>
